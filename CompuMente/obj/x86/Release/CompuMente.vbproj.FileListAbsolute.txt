@@ -1,0 +1,14 @@
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\bin\Release\CompuMente.exe.manifest
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\bin\Release\CompuMente.application
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\bin\Release\CompuMente.exe
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\bin\Release\CompuMente.pdb
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\bin\Release\CompuMente.xml
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Release\Componentes.Componentes.resources
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Release\Componentes.frmPregunta.resources
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Release\Componentes.Resources.resources
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Release\CompuMente.vbproj.GenerateResource.Cache
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Release\CompuMente.exe.manifest
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Release\CompuMente.application
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Release\CompuMente.exe
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Release\CompuMente.xml
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Release\CompuMente.pdb

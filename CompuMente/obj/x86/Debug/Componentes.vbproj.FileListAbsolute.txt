@@ -1,0 +1,9 @@
+C:\Users\Mony\AppData\Local\Temporary Projects\Componentes\bin\Debug\Componentes.exe
+C:\Users\Mony\AppData\Local\Temporary Projects\Componentes\bin\Debug\Componentes.pdb
+C:\Users\Mony\AppData\Local\Temporary Projects\Componentes\bin\Debug\Componentes.xml
+C:\Users\Mony\AppData\Local\Temporary Projects\Componentes\obj\x86\Debug\Componentes.Componentes.resources
+C:\Users\Mony\AppData\Local\Temporary Projects\Componentes\obj\x86\Debug\Componentes.Resources.resources
+C:\Users\Mony\AppData\Local\Temporary Projects\Componentes\obj\x86\Debug\Componentes.vbproj.GenerateResource.Cache
+C:\Users\Mony\AppData\Local\Temporary Projects\Componentes\obj\x86\Debug\Componentes.exe
+C:\Users\Mony\AppData\Local\Temporary Projects\Componentes\obj\x86\Debug\Componentes.xml
+C:\Users\Mony\AppData\Local\Temporary Projects\Componentes\obj\x86\Debug\Componentes.pdb

@@ -1,0 +1,10 @@
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\bin\Debug\CompuMente.exe
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\bin\Debug\CompuMente.pdb
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\bin\Debug\CompuMente.xml
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Debug\Componentes.Componentes.resources
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Debug\Componentes.Resources.resources
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Debug\CompuMente.vbproj.GenerateResource.Cache
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Debug\CompuMente.exe
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Debug\CompuMente.xml
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Debug\CompuMente.pdb
+C:\Users\Mony\Desktop\proa\CompuMente\CompuMente\obj\x86\Debug\Componentes.frmPregunta.resources
